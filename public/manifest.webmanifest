@@ -1,0 +1,18 @@
+{
+  "name": "Inspect AI",
+  "short_name": "Inspect AI",
+  "description": "Review visible details on packaged product labels.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f9",
+  "theme_color": "#122335",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
